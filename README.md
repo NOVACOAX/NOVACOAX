@@ -46,6 +46,17 @@
 <p align="center">
 <a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_google-cloud-fundamentals-core-infrastructure-activity-6993303497827860480-kU_a?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQHhhFoLFESxyg/articleshare-shrink_800/0/1667333400869?e=1667966400&v=beta&t=1_LcNviPpQZc9Nr3lARGShJrttKPyuHsC-vidL62ulM" height="210" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
 <a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_preparing-for-your-associate-cloud-engineer-activity-6991168584085311488-Lf8C?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQEriAZCnvtAjw/articleshare-shrink_800/0/1667359038523?e=1667966400&v=beta&t=IH4z1Zyv403syEK1Wnzt9aYtOV4faNHfwX7NbRwEjOI" height="210" width="210" alt="Preparing for Your Associate Cloud Engineer Journey"> </a>
-
+<p align="center">
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-1.jpg' alt='Animations' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-2.jpg' alt='Animations II' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-3.jpg' alt='Array Methods' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-4.jpg' alt='Automation' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-5.jpg' alt='Debugging Code' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-6.jpg' alt='Fundamentals' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-7.jpg' alt='Fundamentals II' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-8.jpg' alt='Intro into interviewing' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-9.jpg' alt='Intro ino Webpages' height="210" width="210"></a>
+<a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-10.jpg' alt='Using a code Editor' height="210" width="210"></a>
+</p>
 </p>
 
