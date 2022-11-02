@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Kenya.</h3>
 
 <p align="center"><a href="https://wakatime.com/@MAgPIE">
-  <img align="left" width="430" height="330" src="https://wakatime.com/share/@MAgPIE/814a521e-53f1-49ff-97a2-9424a47ee2be.svg" />
+  <img align="left" width="425" height="325" src="https://wakatime.com/share/@MAgPIE/814a521e-53f1-49ff-97a2-9424a47ee2be.svg" />
 </a>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </p>
