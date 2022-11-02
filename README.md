@@ -34,10 +34,18 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hughherschell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hughherschell" /></a></p><br><br>
+<p align="center" ><a href="https://www.buymeacoffee.com/hughherschell"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hughherschell" /></a></p>
+<br><br><br><br>
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=novacoax&show_icons=true&locale=en" alt="novacoax" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novacoax&" alt="novacoax" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novacoax&show_icons=true&locale=en" alt="novacoax" /></p>
+<h3 align="left">Achievements:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_google-cloud-fundamentals-core-infrastructure-activity-6993303497827860480-kU_a?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQHhhFoLFESxyg/articleshare-shrink_800/0/1667333400869?e=1667966400&v=beta&t=1_LcNviPpQZc9Nr3lARGShJrttKPyuHsC-vidL62ulM" height="210" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
+<a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_preparing-for-your-associate-cloud-engineer-activity-6991168584085311488-Lf8C?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQEriAZCnvtAjw/articleshare-shrink_800/0/1667359038523?e=1667966400&v=beta&t=IH4z1Zyv403syEK1Wnzt9aYtOV4faNHfwX7NbRwEjOI" height="210" width="210" alt="Preparing for Your Associate Cloud Engineer Journey"> </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novacoax&" alt="novacoax" /></p>
+</p>
 
