@@ -58,5 +58,6 @@
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-9.jpg' alt='Intro ino Webpages' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-10.jpg' alt='Using a code Editor' height="210" width="210"></a>
 </p>
+<p align="center"><a href="https://www.ratatype.com/u5383450/certificate/"><img src='images/5383450.webp' alt='Using a code Editor' height="180" width="240"></a></p>
 </p>
 
