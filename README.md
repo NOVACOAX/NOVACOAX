@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **Sonyent website**
 
-- 🌱 I’m currently learning **sass**
+- 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **hughherschell2018@gmail.com**
+- 📫 How to reach me **hughherschell.ke@gmail.com**
 
 - ⚡ Fun fact **I also take photos.**
 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/nova_coax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nova_coax" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hugh-herschell-45ba33230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hugh-herschell-45ba33230/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19451979/hugh-herschell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19451979/hugh-herschell" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100087425856037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087425856037" height="30" width="40" /></a>
+<a href="http://www.facebook.com/profile.php?id=100087425856037" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087425856037" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/ma_g_pie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/ma_g_pie" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uceghwxy1c7iixwawinomopa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uceghwxy1c7iixwawinomopa" height="30" width="40" /></a>
 </p>
@@ -58,6 +58,6 @@
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-9.jpg' alt='Intro ino Webpages' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-10.jpg' alt='Using a code Editor' height="210" width="210"></a>
 </p>
-<p align="center"><a href="https://www.ratatype.com/u5383450/certificate/"><img src='images/5383450.webp' alt='Using a code Editor' height="180" width="240"></a></p>
+<p align="center"><a href="https://www.ratatype.com/u5383450/certificate/"><img src='images/5383450.webp' alt='typing certificate' height="180" width="240"></a></p>
 </p>
 
