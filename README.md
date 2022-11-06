@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **hughherschell.ke@gmail.com**
 
+- 📄 Know about my experiences [https://novacoax.github.io/magpie](https://novacoax.github.io/magpie)
+
 - ⚡ Fun fact **I also take photos.**
 
 <h3 align="left">Connect with me:</h3>
