@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/nova_coax" target="blank"><img src="https://img.shields.io/twitter/follow/nova_coax?logo=twitter&style=for-the-badge" alt="nova_coax" /></a> </p>
 
-- 🔭 I’m currently working on **Sonyent website**
+- 🔭 I’m currently working on **Mindstream Social**
 
 - 🌱 I’m currently learning **Node.js**
 
