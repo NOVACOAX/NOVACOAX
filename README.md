@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Mindstream Social**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **hughherschell.ke@gmail.com**
 
@@ -46,8 +46,11 @@
 
 <h3 align="left">Achievements:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_google-cloud-fundamentals-core-infrastructure-activity-6993303497827860480-kU_a?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQHhhFoLFESxyg/articleshare-shrink_800/0/1667333400869?e=1667966400&v=beta&t=1_LcNviPpQZc9Nr3lARGShJrttKPyuHsC-vidL62ulM" height="210" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
-<a href="https://www.linkedin.com/posts/hugh-herschell-45ba33230_preparing-for-your-associate-cloud-engineer-activity-6991168584085311488-Lf8C?utm_source=share&utm_medium=member_desktop"> <img src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQEriAZCnvtAjw/articleshare-shrink_800/0/1667359038523?e=1667966400&v=beta&t=IH4z1Zyv403syEK1Wnzt9aYtOV4faNHfwX7NbRwEjOI" height="210" width="210" alt="Preparing for Your Associate Cloud Engineer Journey"> </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2893096"> <img src="https://cdn.qwiklabs.com/MjBmWJWkQK3w%2FSHVV5Fab0yr9xq2S4aNz7zekxE5g7w%3D" height="210" width="210" alt="Elastic Google Cloud Infrastructure: Scaling and Automation"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2863037"> <img src="https://cdn.qwiklabs.com/ztrsj%2BvHYgz%2B%2BFCEqHBbirKffWPkYvF%2BHTgnJfw6MHg%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Core Services"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2847697"> <img src="https://cdn.qwiklabs.com/Fguu9bRznKkQVnntbiwduaSFpCzmTUVPrNF5T5o2iiU%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Foundation"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2803529"> <img src="https://cdn.qwiklabs.com/%2Fd5BBONavZMTUIIPzH2DospMU6O7p2r88lLVe3EgkLg%3D" height="210" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2774608"> <img src="https://cdn.qwiklabs.com/xQt6es4NApxqKgwCq6btEhGa04apc5kW8UHhWfom2Ec%3D" height="210" width="210" alt="Preparing for Your Associate Cloud Engineer Journey"> </a>
 <p align="center">
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-1.jpg' alt='Animations' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-2.jpg' alt='Animations II' height="210" width="210"></a>
