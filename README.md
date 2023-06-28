@@ -83,6 +83,10 @@
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-9.jpg' alt='Intro ino Webpages' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-10.jpg' alt='Using a code Editor' height="210" width="210"></a>
 </p>
+<p align="center">
+  <a href="https://courses.edx.org/certificates/e6e0f9e8259344768d56d6dc48d892c8"><img src='images/harvard1.png' alt="CS50x: CS50's Introduction to Computer Science" height="210"></a>
+  <a href="https://courses.edx.org/certificates/ece5eea18dcf466689257460e64a5095"><img src='images/harvard2.png' alt="CS50W: CS50's Web Programming with Python and JavaScript" height="210"></a>
+</p>
 <p align="center"><a href="https://www.ratatype.com/u5383450/certificate/"><img src='images/5383450.webp' alt='typing certificate' height="180" width="240"></a></p>
 </p>
 
