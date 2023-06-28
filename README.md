@@ -66,6 +66,10 @@
 
 <h3 align="left">Achievements:</h3>
 <p align="center">
+  <a href="https://courses.edx.org/certificates/e6e0f9e8259344768d56d6dc48d892c8"><img src='images/harvard1.png' alt="CS50x: CS50's Introduction to Computer Science" height="210"></a>
+  <a href="https://courses.edx.org/certificates/ece5eea18dcf466689257460e64a5095"><img src='images/harvard2.png' alt="CS50W: CS50's Web Programming with Python and JavaScript" height="210"></a>
+</p>
+<p align="center">
 <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2893096"> <img src="https://cdn.qwiklabs.com/MjBmWJWkQK3w%2FSHVV5Fab0yr9xq2S4aNz7zekxE5g7w%3D" height="210" width="210" alt="Elastic Google Cloud Infrastructure: Scaling and Automation"> </a>
  <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2863037"> <img src="https://cdn.qwiklabs.com/ztrsj%2BvHYgz%2B%2BFCEqHBbirKffWPkYvF%2BHTgnJfw6MHg%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Core Services"> </a>
  <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2847697"> <img src="https://cdn.qwiklabs.com/Fguu9bRznKkQVnntbiwduaSFpCzmTUVPrNF5T5o2iiU%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Foundation"> </a>
@@ -82,10 +86,6 @@
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-8.jpg' alt='Intro into interviewing' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-9.jpg' alt='Intro ino Webpages' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-10.jpg' alt='Using a code Editor' height="210" width="210"></a>
-</p>
-<p align="center">
-  <a href="https://courses.edx.org/certificates/e6e0f9e8259344768d56d6dc48d892c8"><img src='images/harvard1.png' alt="CS50x: CS50's Introduction to Computer Science" height="210"></a>
-  <a href="https://courses.edx.org/certificates/ece5eea18dcf466689257460e64a5095"><img src='images/harvard2.png' alt="CS50W: CS50's Web Programming with Python and JavaScript" height="210"></a>
 </p>
 <p align="center"><a href="https://www.ratatype.com/u5383450/certificate/"><img src='images/5383450.webp' alt='typing certificate' height="180" width="240"></a></p>
 </p>
