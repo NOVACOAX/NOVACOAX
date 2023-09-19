@@ -15,7 +15,7 @@
   - Time spent on project | WakaTime
     [![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26.svg)](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **hughherschell2018@gmail.com**
 
