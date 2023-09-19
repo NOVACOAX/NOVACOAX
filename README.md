@@ -11,6 +11,10 @@
 
 <p align="left"> <a href="https://twitter.com/nova_coax" target="blank"><img src="https://img.shields.io/twitter/follow/nova_coax?logo=twitter&style=for-the-badge" alt="nova_coax" /></a> </p>
 
+<p align="left">Total time coded since October 6 2022 </p> 
+
+[![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe.svg)](https://wakatime.com/@e6e67420-e316-4f14-bf93-82b8928d71fe)
+
 - 🔭 I’m currently working on **Mindstream Social**
   - Time spent on project | WakaTime
     [![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26.svg)](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26)
@@ -35,7 +39,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindui.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind UI" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -52,6 +55,7 @@
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40" height="40" alt="Dart"/> </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353751/flutter.svg"width="40" height="40" alt="Flutter"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/logo_RdHo7Lf.png" width="40" height="40" alt="Firebase"/> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" width="40" height="40" alt="Vue.js"/> </a>
 </p>
 
 
@@ -70,11 +74,14 @@
   <a href="https://courses.edx.org/certificates/ece5eea18dcf466689257460e64a5095"><img src='images/harvard2.png' alt="CS50W: CS50's Web Programming with Python and JavaScript" height="210"></a>
 </p>
 <p align="center">
-<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2893096"> <img src="https://cdn.qwiklabs.com/MjBmWJWkQK3w%2FSHVV5Fab0yr9xq2S4aNz7zekxE5g7w%3D" height="210" width="210" alt="Elastic Google Cloud Infrastructure: Scaling and Automation"> </a>
- <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2863037"> <img src="https://cdn.qwiklabs.com/ztrsj%2BvHYgz%2B%2BFCEqHBbirKffWPkYvF%2BHTgnJfw6MHg%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Core Services"> </a>
- <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2847697"> <img src="https://cdn.qwiklabs.com/Fguu9bRznKkQVnntbiwduaSFpCzmTUVPrNF5T5o2iiU%3D" height="210" width="210" alt="Essential Google Cloud Infrastructure: Foundation"> </a>
- <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2803529"> <img src="https://cdn.qwiklabs.com/%2Fd5BBONavZMTUIIPzH2DospMU6O7p2r88lLVe3EgkLg%3D" height="210" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
-<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2774608"> <img src="https://cdn.qwiklabs.com/xQt6es4NApxqKgwCq6btEhGa04apc5kW8UHhWfom2Ec%3D" height="210" width="210" alt="Preparing for Your Associate Cloud Engineer Journey"> </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2893096"> <img src="https://cdn.qwiklabs.com/MjBmWJWkQK3w%2FSHVV5Fab0yr9xq2S4aNz7zekxE5g7w%3D" height="200" width="210" alt="Elastic Google Cloud Infrastructure: Scaling and Automation"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2863037"> <img src="https://cdn.qwiklabs.com/ztrsj%2BvHYgz%2B%2BFCEqHBbirKffWPkYvF%2BHTgnJfw6MHg%3D" height="200" width="210" alt="Essential Google Cloud Infrastructure: Core Services"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2847697"> <img src="https://cdn.qwiklabs.com/Fguu9bRznKkQVnntbiwduaSFpCzmTUVPrNF5T5o2iiU%3D" height="200" width="210" alt="Essential Google Cloud Infrastructure: Foundation"> </a>
+ <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/2803529"> <img src="https://cdn.qwiklabs.com/%2Fd5BBONavZMTUIIPzH2DospMU6O7p2r88lLVe3EgkLg%3D" height="200" width="210" alt="Google Cloud Fundamentals: Core Infrastructure"> </a>
+<a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/4490062"> <img src="https://cdn.qwiklabs.com/ENQb28deAybjaN0piz5hSR2WovRbdKIR5BaeUs2PT8Q%3D" height="200" width="210" alt="Encoder-Decoder Architecture"> </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/4478941"> <img src="https://cdn.qwiklabs.com/TfMqEetrdIngHf1e0jLpamHD%2Fmv9BP8nO%2BuFADy2wzM%3D" height="200" width="210" alt="Introduction to Large Language Models"> </a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/4478625"> <img src="https://cdn.qwiklabs.com/eUpPKQvwTZUF1OIcHrMK06zGg%2BD3tx5gbfJUJddnrxU%3D" height="200" width="210" alt="Introduction to Generative AI"> </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/86fdc12a-f416-4b44-ae39-f3c5ca03aee5/badges/4479370"> <img src="https://cdn.qwiklabs.com/uehm6AXjibx%2Fiv0KiH9QnBXSoFmeRyLMAQt35WsCttE%3D" height="140" width="210" alt="Generative AI Fundamentals"> </a>
 <p align="center">
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-1.jpg' alt='Animations' height="210" width="210"></a>
 <a href="https://grasshopper.app/certificates"><img src='images/grasshopper-cert-2.jpg' alt='Animations II' height="210" width="210"></a>
