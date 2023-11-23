@@ -15,9 +15,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe.svg)](https://wakatime.com/@e6e67420-e316-4f14-bf93-82b8928d71fe)
 
-- 🔭 I’m currently working on **Mindstream Social**
+- 🔭 I’m currently working on **This Is Me Community Website**
   - Time spent on project | WakaTime
-    [![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26.svg)](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/8ab33957-0d8a-415c-9129-b6cdc6e24a26)
+    [![wakatime](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/d8ecb6e7-20d2-4f10-bde0-0c270931038d.svg)](https://wakatime.com/badge/user/e6e67420-e316-4f14-bf93-82b8928d71fe/project/d8ecb6e7-20d2-4f10-bde0-0c270931038d)
 
 - 🌱 I’m currently learning **AI**
 
